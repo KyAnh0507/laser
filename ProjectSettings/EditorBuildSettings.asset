@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Game1/Scenes/GameOver.unity
     guid: 022dbc43f665c3243b576b77fc3a7e20
+  - enabled: 1
+    path: Assets/_GameColorPencil/Scenes/GameColorPencil.unity
+    guid: 3d4607cbe95adce46ad50a30685d426b
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 800101c4ac3db0946b39449a470a5e4a, type: 2}

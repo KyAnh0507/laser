@@ -29,6 +29,11 @@ public class LevelManager : SingletonMonoBehaviour<LevelManager>
         Application.Quit();
     }
 
+    public void GameColorPencil()
+    {
+        SceneManager.LoadScene("GameColorPencil");
+    }
+
     IEnumerator WaitAndLoad(string sceneName, float delay)
     {
         yield return new WaitForSeconds(delay);

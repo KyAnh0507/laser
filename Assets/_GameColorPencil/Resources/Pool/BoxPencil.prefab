@@ -195,7 +195,7 @@ GameObject:
   - component: {fileID: 4104246438150889713}
   - component: {fileID: 123602029540390668}
   - component: {fileID: 783114649445049365}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: BoxPencil
   m_TagString: Untagged
   m_Icon: {fileID: 0}
